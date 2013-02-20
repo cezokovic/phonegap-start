@@ -4,14 +4,14 @@
 	id		= "com.alunny.amazing"
 	version 	= "1.0.0">
 
-	<name>alunnys Amazing App</name>
+	<name>Cezos Amazing App</name>
 
 	<description>
-		An Amazing app by alunny
+		Facebook app by cezokovic
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href="http://cezokovic.github.com"
+		email="clickomat@googlemail.com">
 		Andrew Lunny
 	</author>
 
@@ -22,9 +22,9 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="blurry.png" gap:role="default" />
+	<icon src="cezokovic.png" gap:role="default" />
 
-    <gap:splash src="weirdo.png" />
+    <gap:splash src="cgsplash.png" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
